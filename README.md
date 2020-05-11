@@ -3,9 +3,9 @@ To see how it works please follow the below steps.
 1. Download the File on the Destop.
 
 2. Open the Command Prompt and change the Directory to the main folder
-    Eg: C:\Users\Alpharomeo>cd desktop
-        C:\Users\Alpharomeo\Desktop>cd Multiple Client Project
-        C:\Users\Alpharomeo\Desktop\Multiple Client Project>
+        *Eg: C:\Users\Alpharomeo>cd desktop*
+        *C:\Users\Alpharomeo\Desktop>cd Multiple Client Project*
+        *C:\Users\Alpharomeo\Desktop\Multiple Client Project>*
         
 3. The Execute the Server file first using the below command
     python Server.py
